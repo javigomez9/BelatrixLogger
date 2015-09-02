@@ -1,0 +1,7 @@
+2/9/2015 12:47 a. m. - MESSAGE: Log only message
+2/9/2015 12:48 a. m. - MESSAGE: Hola mundo
+2/9/2015 12:48 a. m. - MESSAGE: Hola mundo
+2/9/2015 12:48 a. m. - MESSAGE: Log only message
+2/9/2015 12:50 a. m. - MESSAGE: Hola mundo
+2/9/2015 12:50 a. m. - MESSAGE: Hola mundo
+2/9/2015 12:50 a. m. - MESSAGE: Log only message

@@ -1,0 +1,16 @@
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\bin\Debug\MessageTest.dll
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\bin\Debug\MessageTest.pdb
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\bin\Debug\BelatrixLog.dll
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\bin\Debug\BelatrixLog.pdb
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\obj\Debug\MessageTest.dll
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\obj\Debug\MessageTest.pdb
+c:\users\mariajose\documents\visual studio 2013\Projects\BelatrixLog\MessageTest\bin\Debug\MessageTest.dll.config
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\bin\Debug\MessageTest.dll.config
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\bin\Debug\MessageTest.dll
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\bin\Debug\MessageTest.pdb
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\bin\Debug\BelatrixLog.dll
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\bin\Debug\BelatrixLog.pdb
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\obj\Debug\MessageTest.dll
+C:\Users\Mariajose\Dropbox\Trabajos\BelatrixLog\MessageTest\obj\Debug\MessageTest.pdb
